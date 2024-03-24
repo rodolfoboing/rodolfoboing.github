@@ -21,17 +21,17 @@
         <article>
             <h2>Artigo 1</h2>
             <p>Imagem de Exemplo.</p>
-            <img src="https://st.depositphotos.com/2935381/4189/i/450/depositphotos_41897159-stock-photo-example-concept.jpg" alt="Imagem 1">
+            <img src="https://st.depositphotos.com/2935381/4189/i/450/depositphotos_41897159-stock-photo-example-concept.jpg" alt="Primeira Imagem com letras coloridas escrevendo Exemplo">
         </article>
         <article>
             <h2>Artigo 2</h2>
             <p>Imagem de Exemplo.</p>
-            <img src="https://www.shutterstock.com/shutterstock/photos/1883859943/display_1500/stock-photo-the-word-example-is-written-on-a-magnifying-glass-on-a-yellow-background-1883859943.jpg" alt="Imagem 2">
+            <img src="https://www.shutterstock.com/shutterstock/photos/1883859943/display_1500/stock-photo-the-word-example-is-written-on-a-magnifying-glass-on-a-yellow-background-1883859943.jpg" alt="Segunda Imagem com letras coloridas escrevendo Exemplo">
         </article>
         <article>
             <h2>Artigo 3</h2>
             <p>Imagem de Exemplo.</p>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKH_lncDzQmo2_8ED1p56jKuWJMsJXuYEiOXD2miHxwA&s" alt="Imagem 3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKH_lncDzQmo2_8ED1p56jKuWJMsJXuYEiOXD2miHxwA&s" alt="Terceira Imagem com letras coloridas escrevendo Exemplo">
         </article>
     </main>
     <footer>
