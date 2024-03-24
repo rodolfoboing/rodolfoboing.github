@@ -36,8 +36,8 @@
     </main>
     <footer>
         <p>Rodapé do site.</p>
+        <a href="https://www.devmedia.com.br/artigos/iniciantes" target="_blank">HTML Para Iniciantes</a>
     </footer>
-    <link rel="stylesheet" href="https://www.devmedia.com.br/html-basico-codigos-html">
 </body>
 
 </html>
